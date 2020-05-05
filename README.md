@@ -1,6 +1,6 @@
 # WordList
-Wordlists i'am using for <b>bug bounty</b><br>; 
-Using subdomain-takeover and search subdomain explotatio.
+Wordlists i'am using for <b>bug bounty</b><br> 
+Using subdomain-takeover and search subdomain exploration.
 
 <p>
 	<b>Wordlist with many characters, it may take days to finish</b><br />
